@@ -1,5 +1,5 @@
 ---
-active: yes
+active: no
 sponsorName: Convert_
 sponsorNameConcatenated: convert
 sponsorEmoji: 🛠️
